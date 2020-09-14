@@ -69,9 +69,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Breakdown-schets(en):**
 
-<img src="images/scan.jpeg">
-<img src="images/scan1.jpeg">
-<img src="images/scan2.jpeg">
+<img src="images/Scan.jpg">
+<img src="images/Scan1.jpg">
+<img src="images/Scan2.jpg">
 
 
 
