@@ -64,8 +64,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-(images/websitescreen01.png)
-(images/websitescreen02.png)
+<img src="images/websitescreen01.png">
+<img src="images/websitescreen02.png">
 
 **Breakdown-schets(en):**
 
